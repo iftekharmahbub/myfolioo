@@ -111,7 +111,7 @@ nav .service:hover .submenu{
 
             /* banner start */
 #banner{
-    background-image: url('/photo/MYFOLIO.png');
+    background-image: url('/photo/main.png');
     height: 725px;
     background-repeat: no-repeat;
     background-size: cover;
